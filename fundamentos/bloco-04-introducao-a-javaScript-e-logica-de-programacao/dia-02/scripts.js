@@ -8,14 +8,8 @@
 
 // console.log(indexOfPortfolio);
 
-// let menu = ['Home', 'Serviços', 'Portfólio', 'Links'];
+let menu = ['Home', 'Serviços', 'Portfólio', 'Links'];
 
-// menu.push("Contato");
+menu.push("Contato");
 
-// console.log(menu);
-
-let names = ['João', 'Maria', 'Antônio', 'Margarida'];
-
-for(let elementos of names){
-    console.log(elementos);
-}
+console.log(menu);
