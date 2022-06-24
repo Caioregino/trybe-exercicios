@@ -18,7 +18,7 @@ switch(situacao){
         break;
 
     case 'lista':
-        console.log('Você está na lista de espera!');
+        console.log('Você foi para a lista de espera!');
         break;
 
     case 'reprovada':
